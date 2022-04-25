@@ -44,7 +44,7 @@
         40
       ],
       "price": 295,
-      "category": 1,
+      "category": 2,
       "rating": 4
     },
     {
@@ -92,8 +92,8 @@
         40
       ],
       "price": 580,
-      "category": 2,
-      "rating": 2
+      "category": 3,
+      "rating": 3
     },
     {
       "id": 6,
@@ -143,7 +143,7 @@
         40
       ],
       "price": 395,
-      "category": 5,
+      "category": 4,
       "rating": 10
     },
     {
@@ -160,7 +160,7 @@
         40
       ],
       "price": 285,
-      "category": 5,
+      "category": 1,
       "rating": 7
     }
   ]
